@@ -3,7 +3,7 @@
   "name": "Repo Analyzer",
   "version": "4.3",
   "description": "Analyze GitHub repos - no API needed, works locally",
-  "permissions": ["activeTab", "tabs"],
+  "permissions": ["activeTab"],
   "host_permissions": ["https://github.com/*"],
   "icons": {
     "16": "icon-16.png",
