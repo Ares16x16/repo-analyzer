@@ -1,0 +1,19 @@
+# Private key for extension packaging (never commit)
+*.pem
+
+# Packaged extension artifacts (rebuild locally when needed)
+*.crx
+
+# Logs
+*.log
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
